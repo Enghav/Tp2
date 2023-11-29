@@ -10,7 +10,7 @@ import C5 from "../assets/images/snack.png";
 import C6 from "../assets/images/plum.png";
 import C7 from "../assets/images/vegetable.png";
 import C8 from "../assets/images/headphone.png";
-import C9 from "../assets/images/Cake.png";
+import C9 from "..//assets/images/cake.png";
 import C10 from "../assets/images/orange.png";
 import PD1 from "../assets/images/mango.png"
 import PD2 from "../assets/images/corn.png"
