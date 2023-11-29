@@ -4,7 +4,7 @@ import P2 from "../assets/images/Group 1.png";
 import P3 from "../assets/images/organic.png";
 import C1 from "../assets/images/burger.png";
 import C2 from "../assets/images/peach.png";
-import C3 from "../assets/images/Kiwi.png";
+import C3 from "..//assets/images/kiwi.png";
 import C4 from "../assets/images/apple.png";
 import C5 from "../assets/images/snack.png";
 import C6 from "../assets/images/plum.png";
